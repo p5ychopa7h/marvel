@@ -7,7 +7,7 @@ import decoration from '../../resources/img/vision.png';
 
 const App = () => {
     return (
-        <div className="app">
+        <div className="app ">
             <AppHeader/>
             <main>
                 <RandomChar/>
