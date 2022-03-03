@@ -1,0 +1,105 @@
+
+001 -API
+https://habr.com/ru/post/464261/
+
+001 -
+https://github.com/public-apis/public-apis
+
+001 an-api-of-ice-and-fire
+https://anapioficeandfire.com/
+
+001 pokeapi
+https://pokeapi.co/
+
+001 Marvel-api
+https://developer.marvel.com/
+
+001 Weather-API
+https://openweathermap.org/api
+
+001 News-API
+https://newsapi.org/
+
+002 Marvel-API
+https://developer.marvel.com/
+
+002 -
+https://drive.google.com/file/d/1UResr1Ve0Itlgw72wNZcUd-GXcVGJU3d/view?usp=sharing
+
+002 -github
+https://github.com/yankovalenko94/JS_task_answers/tree/master/React_Redux_step_9
+
+003 -
+https://github.com/yankovalenko94/JS_task_answers/tree/master/React_Redux_step_11
+
+004 -1
+https://icons8.com/preloaders
+
+004 -2
+https://loading.io/
+
+004 -
+https://github.com/yankovalenko94/JS_task_answers/tree/master/React_Redux_step_12
+
+005 -
+https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/
+
+005 object-fit
+https://developer.mozilla.org/ru/docs/Web/CSS/object-fit
+
+006 -omponentDidUpdate
+https://ru.reactjs.org/docs/react-component.html#componentdidupdate
+
+006 -
+https://github.com/yankovalenko94/JS_task_answers/tree/master/React_Redux_step_14
+
+007 componentDidCatch
+https://ru.reactjs.org/docs/react-component.html#componentdidcatch
+
+007 getDerivedStateFromError
+https://ru.reactjs.org/docs/react-component.html#static-getderivedstatefromerror
+
+007 -
+https://github.com/yankovalenko94/JS_task_answers/tree/master/React_Redux_step_15
+
+008 -
+https://github.com/yankovalenko94/JS_task_answers/tree/master/React_Redux_step_16
+
+009 prop-types-npm
+https://www.npmjs.com/package/prop-types
+
+009 -
+https://ru.reactjs.org/docs/typechecking-with-proptypes.html
+
+010 -React.children
+https://ru.reactjs.org/docs/react-api.html#reactchildren
+
+010 cloneElement-
+https://ru.reactjs.org/docs/react-api.html#reactchildren
+
+012 -
+https://ru.reactjs.org/docs/render-props.html
+
+012 App.js
+https://drive.google.com/file/d/120HpZ9Zo2lmpvyeCAm2iRP7FcWhNFRKe/view?usp=sharing
+
+013 -
+https://ru.reactjs.org/docs/refs-and-the-dom.html
+
+014 -
+https://habr.com/ru/company/smartprogress/blog/306096/
+
+014 -2
+https://nuancesprog.ru/p/11039/
+
+015 link-host
+https://link-host.net/billing/pl.php?5442
+
+015 -
+https://create-react-app.dev/docs/deployment/
+
+015 heroku
+https://www.heroku.com/
+
+015 filezilla-ftp-
+https://filezilla.ru/
