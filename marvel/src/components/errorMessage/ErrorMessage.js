@@ -1,3 +1,4 @@
+
 import img from './error.gif';
 
 const ErrorMessage = () => {
